@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['sunnyraut.pythonanywhere.com']
 
 
-# Application definition
+# Application definition yes
 
 INSTALLED_APPS = [
     'django.contrib.admin',
